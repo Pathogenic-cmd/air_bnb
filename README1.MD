@@ -140,7 +140,7 @@ voila notebook.ipynb
 
 
 - Median vs Average Price (Median Price)
-  ![Median vs Average Price---Median Price](outputs/visualisations/Listings_by_District_and_Price_Range.png)
+  ![Price---Median Price](outputs/visualisations/LDPR.png)
 
 
 
