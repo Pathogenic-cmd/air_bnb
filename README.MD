@@ -109,7 +109,7 @@ jupyter notebook
  
 bash
 ```
-notebook.ipynb
+voila notebook.ipynb
 ```
 
 
@@ -121,6 +121,7 @@ notebook.ipynb
 - |-- notebooks/
 -  |   |-- notebook
 - |-- output/
+-  |  |-- cleaned_data
 -  |   |-- visualisations
 - |-- README.md
 
