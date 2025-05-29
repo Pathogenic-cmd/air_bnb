@@ -134,9 +134,11 @@ voila notebook.ipynb
 
      ![Listings by District](outputs/visualisations/listings_per_district.png)
 
-  - **Median pricing gives a better sense of neighborhood affordability than the average due to skew from luxury properties.**
+- **Median pricing gives a better sense of neighborhood affordability than the average due to skew from luxury properties.**
 - Median vs Average Price (Average Price)
    ![Median vs Average Price---Average Price](outputs/visualisations/Listings_by%20District_and_Price_Range_raw.png)
+
+
 - Median vs Average Price (Median Price)
   ![Median vs Average Price---Median Price](outputs/visualisations/Listings_by District_and_Price_Range.png)
 
@@ -145,6 +147,7 @@ voila notebook.ipynb
 - **Budget listings are concentrated in Districts 5 and 8.**
 
     ![Budget Listings by District](outputs/visualisations/Average_Listing_Price_by_Neighborhood_with_Price_Category.png)
+
 
 
 - **Room type distribution shows 'Entire home/apt' dominates most districts, but some like District 8 lean more toward 'Private room'.**
